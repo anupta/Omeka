@@ -80,11 +80,11 @@ Parameters:
 For item `131`, the server returns:
 
 ```text
-http://94.103.163.196/omeka/s/terracotta/item/131
+http://<IP_Address>/omeka/s/terracotta/item/131
 ```
 
 The Omeka API record itself is fetched from:
 
 ```text
-http://94.103.163.196/omeka/api/items/131
+http://<IP_Address>/omeka/api/items/131
 ```
